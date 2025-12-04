@@ -31,6 +31,7 @@
 3. Створити новий консольний проєкт у директорії `OOP-Малецька`:  
    ```bash
    dotnet new console -o OOP-Малецька/lab1v   dotnet new console -o OOP-Малецька/lab1v
+   dotnet new console -o OOP-Малецька/lab1v
 =======
 # OOP-Maletska
 
